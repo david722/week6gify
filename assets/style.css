@@ -1,0 +1,32 @@
+.item {
+    margin: 5px;
+    border: 1px solid black;
+    padding: 2px;
+    display: inline-block;
+}
+.item img{
+    height: 175px;
+    width: 175px;
+}
+.card{
+    margin-bottom: 10px;
+}
+.animal-btn{
+    margin: 3px;
+}
+
+#title{
+	font-family: 'Black Han Sans';
+}
+
+#title2{
+	font-family: 'Gamja Flower', cursive;
+}
+
+#header{
+	background-color: #33FF86;
+}
+
+#background{
+	background-color: #000;
+}
